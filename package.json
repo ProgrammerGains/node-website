@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "hbs": "^4.0.4",
-    "nodemon": "^1.19.2",
+    "hbs": "^4.0.5",
+    "nodemon": "^1.19.3",
     "request": "^2.88.0"
   }
 }
